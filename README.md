@@ -15,3 +15,11 @@ git clone https://github.com/Shibu778/structure2symmetry.git
 cd structure2symmetry
 pip install -e .
 ```
+
+## Use
+
+You can use following commandline interface to get symmetry information from a structure file.
+
+```
+struct2symm --filepath "./SiC.cif" --tolerance 1e-6 --angle_tolerance 0.01 --destination "./" --savefile "data.info"
+```

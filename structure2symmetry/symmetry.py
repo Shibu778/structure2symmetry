@@ -102,7 +102,7 @@ def write_dataset(filename, dataset):
 )
 @click.option(
     "--savefile",
-    default="symmetry_dataset.txt",
+    default="symmetry.info",
     help="Name of the file where symmetry information will be written",
 )
 def struct2symm(
@@ -110,7 +110,7 @@ def struct2symm(
     tolerance,
     angle_tolerance,
     destination="./",
-    savefile="symmetry_dataset.txt",
+    savefile="symmetry.info",
 ):
     """Returns a dictionary containing symmetry information.
 

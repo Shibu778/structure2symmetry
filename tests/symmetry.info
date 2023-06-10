@@ -1,0 +1,124 @@
+Check the following reference for details about various terms. 
+Ref - https://spglib.readthedocs.io/en/latest/python-spglib.html
+
+File Read : ./SiC.cif
+
+
+Space Group Number : 186
+Point Group : 6mm
+Space Group (International) : P6_3mc
+Space Group (Schoenflies) : C6v^4 (186)
+Has inversion symmetry : False
+Symmetry Precision : 1e-06
+Angle Tolerance : 0.01
+Hall Number : 480
+Hall Symbol : P 6c -2c
+Choice : 
+Transformation Matrix : 
+[[1. 0. 0.]
+ [0. 1. 0.]
+ [0. 0. 1.]]
+
+Origin Shift : [0.99999999 0.99999999 0.        ]
+
+Rotations : 
+[[[ 1  0  0]
+  [ 0  1  0]
+  [ 0  0  1]]
+
+ [[ 1 -1  0]
+  [ 1  0  0]
+  [ 0  0  1]]
+
+ [[ 0 -1  0]
+  [ 1 -1  0]
+  [ 0  0  1]]
+
+ [[-1  0  0]
+  [ 0 -1  0]
+  [ 0  0  1]]
+
+ [[-1  1  0]
+  [-1  0  0]
+  [ 0  0  1]]
+
+ [[ 0  1  0]
+  [-1  1  0]
+  [ 0  0  1]]
+
+ [[ 0  1  0]
+  [ 1  0  0]
+  [ 0  0  1]]
+
+ [[ 1  0  0]
+  [ 1 -1  0]
+  [ 0  0  1]]
+
+ [[ 1 -1  0]
+  [ 0 -1  0]
+  [ 0  0  1]]
+
+ [[ 0 -1  0]
+  [-1  0  0]
+  [ 0  0  1]]
+
+ [[-1  0  0]
+  [-1  1  0]
+  [ 0  0  1]]
+
+ [[-1  1  0]
+  [ 0  1  0]
+  [ 0  0  1]]]
+
+Translations : 
+[[ 0.00000000e+00  0.00000000e+00  0.00000000e+00]
+ [ 9.99999994e-09  1.11022302e-16  5.00000000e-01]
+ [ 1.99999999e-08  1.00000001e-08  0.00000000e+00]
+ [ 1.99999997e-08  1.99999999e-08  5.00000000e-01]
+ [ 9.99999972e-09  1.99999999e-08  0.00000000e+00]
+ [-1.11022302e-16  9.99999983e-09  5.00000000e-01]
+ [-1.11022302e-16  1.11022302e-16  5.00000000e-01]
+ [ 0.00000000e+00  1.00000001e-08  0.00000000e+00]
+ [ 9.99999994e-09  1.99999999e-08  5.00000000e-01]
+ [ 1.99999999e-08  1.99999999e-08  0.00000000e+00]
+ [ 1.99999997e-08  9.99999983e-09  5.00000000e-01]
+ [ 9.99999972e-09  0.00000000e+00  0.00000000e+00]]
+
+Wickoff Letters : 
+['b', 'b', 'b', 'b']
+
+Site Symmetry Symbols : 
+['3m.', '3m.', '3m.', '3m.']
+
+Crystallographic Orbits : 
+[0 0 2 2]
+
+Equivalent Atoms : 
+[0 0 2 2]
+
+Primitive Lattice : 
+[[ 3.07351393  0.          0.        ]
+ [-1.53675696  2.66174114  0.        ]
+ [ 0.          0.          5.04524771]]
+
+Mapping to Primitive : 
+[0 1 2 3]
+
+Standard Lattice : 
+[[ 3.07351393  0.          0.        ]
+ [-1.53675696  2.66174114  0.        ]
+ [ 0.          0.          5.04524771]]
+
+Standard Positions : 
+[[0.33333333 0.66666667 0.4996024 ]
+ [0.66666667 0.33333333 0.9996024 ]
+ [0.33333333 0.66666667 0.8753976 ]
+ [0.66666667 0.33333333 0.3753976 ]]
+
+Standard Rotation Matrix : 
+[[1. 0. 0.]
+ [0. 1. 0.]
+ [0. 0. 1.]]
+
+Standard Mapping to Primitive : 
+[0 1 2 3]
