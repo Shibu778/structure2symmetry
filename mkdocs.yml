@@ -1,0 +1,6 @@
+site_name: structure2symmetry
+site_url: https://github.com/Shibu778/structure2symmetry
+nav:
+  - Home: index.md
+
+theme: readthedocs
