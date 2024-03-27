@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "structure2symmetry"
+version = "0.0.1"
+description = "A python package to extract symmetry information from structure files, including POSCAR, CIF, and other format supported by ase.io.read."
+authors = ["Shibu Meher <shibumeher@iisc.ac.in>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+click = "^8.1.7"
+numpy = "^1.26.4"
+spglib = "^2.3.1"
+ase = "^3.22.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+struct2symm = 'structure2symmetry.symmetry:struct2symm'
